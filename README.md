@@ -5,7 +5,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-**Animalia** is a specialized image recognition engine capable of identifying **90 different animal species** with high precision. This project demonstrates the power of **Transfer Learning**—taking complex, research-grade architectures like **ResNet-50** and deploying them into a functional, user-centric web application.
+**Animalia** is a specialized image recognition engine capable of identifying **90 different animal species** with high precision. This project demonstrates the power of **Transfer Learning**, taking complex, research-grade architectures like **ResNet-50** and deploying them into a functional, user-centric web application.
 
 ---
 
@@ -13,7 +13,7 @@
 
 
 ##  The "Why" Behind the Project
-I wanted to build a complete pipeline—from raw data cleaning to a live interface. 
+I wanted to build a complete pipeline, from raw data cleaning to a live interface. 
 
 The core challenge was the scale of the classes. Distinguishing between subtle species (like a **Coyote** vs. a **Wolf**) required more than basic CNN layers; it required deep residual learning to capture the fine-grained textures and anatomical markers of the animal kingdom.
 
@@ -43,7 +43,7 @@ The model was trained for 5 epochs with a high learning rate of $0.001$, achievi
 * `animal_resnet50_final.pth` - *Hosted on Hugging Face (File size >100MB)*.
 
 ## 🧠 Reflections & Learning
-The biggest hurdle wasn't the code—it was the data. Real-world datasets are messy. Handling hidden system files, cleaning empty directories, and optimizing memory usage for a 100MB model on a free-tier server taught me more about **Software Engineering** than a textbook ever could.
+The biggest hurdle wasn't the code—it was the data. Real world datasets are messy. Handling hidden system files, cleaning empty directories, and optimizing memory usage for a 100MB model on a free-tier server taught me more about **Software Engineering** than a textbook ever could.
 
 ---
 *Created with 🐾 as part of my BSCS Semester Project.*
