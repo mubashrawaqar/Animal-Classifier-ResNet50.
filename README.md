@@ -46,4 +46,4 @@ The model was trained for 5 epochs with a high learning rate of $0.001$, achievi
 The biggest hurdle wasn't the code—it was the data. Real world datasets are messy. Handling hidden system files, cleaning empty directories, and optimizing memory usage for a 100MB model on a free-tier server taught me more about **Software Engineering** than a textbook ever could.
 
 ---
-*Created with 🐾 as part of my BSCS Semester Project.*
+*Created with 🐾 as part of my Generative AI course training.*
